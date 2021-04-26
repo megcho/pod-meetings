@@ -1,6 +1,6 @@
 # Intro to JavaScript & DOM Manipulation
 
-### 1. Write at least 2 ways of writing a function
+### 1. Write a function in at least two different ways.
 
 ### 2. What are the two ways of creating an object? Show below.
 
