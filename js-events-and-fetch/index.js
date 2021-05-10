@@ -29,3 +29,13 @@ images.forEach(img => {
 })
 
 
+// Add a form to index.html with inputs for a new image url and a description
+// When a user submits, the new picture and description should be displayed on the page
+
+
+
+// Add a button to each image to delete the image object from the page
+
+
+// Make a fetch request to the following url to post a random meme on the page:
+// https://api.imgflip.com/get_memes

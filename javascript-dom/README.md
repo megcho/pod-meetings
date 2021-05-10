@@ -14,7 +14,7 @@
 
 ### 7. What is a node?
 
-### 8. What is the virtual DOM?
+### 8. What is the DOM?
 
 ### 9. What does `.querySelector` return?
 
